@@ -1,0 +1,8 @@
+{
+  "name": "Surftide Plaza",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "24b23774"
+}
